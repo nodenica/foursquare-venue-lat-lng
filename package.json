@@ -1,0 +1,27 @@
+{
+  "name": "foursquare-venue-lat-lng",
+  "version": "0.0.1",
+  "description": "Get Latitude and Longitude from foursquare venue url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodenica/foursquare-venue-lat-lng.git"
+  },
+  "keywords": [
+    "facebook",
+    "page",
+    "id"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodenica/foursquare-venue-lat-lng/issues"
+  },
+  "homepage": "https://github.com/nodenica/foursquare-venue-lat-lng#readme",
+  "dependencies": {
+    "request": "2.67.0"
+  }
+}
